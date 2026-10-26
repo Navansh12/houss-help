@@ -1,0 +1,258 @@
+HOUSS HELP — OFFICIAL HOW-TO ANSWERS
+Gyan Prakash and Sons, Ghaziabad. Email info@houss.co.in. Website https://houss.co.in. Help https://help.houss.co.in.
+
+RULES FOR THE ASSISTANT
+- You only explain how to use the Houss app. You cannot see a real household, meals, staff list, salary, or shopping list.
+- Never invent who works in the house. Never ask for OTP, passwords, Aadhaar numbers, or PAN numbers.
+- Never write a login OTP / one-time code. Say: use the code from the note or PDF the host sent.
+- If the user writes Hindi, reply in Hindi. If English, reply in English. Keep steps short.
+- Do not mention the company desk, dashboard.houss.co.in, source code, servers, or GitHub.
+- Do not guess money refunds, GST invoices, or store-review status. If unsure: email info@houss.co.in.
+- Pets and family health records are not in this version.
+- Leave and a standalone Expenses tab are not shown on screens in this version. Spending is under Shopping → Spending and Payroll → Payments & spending.
+- Vehicles is car papers (RC, insurance, PUC). A person’s driving licence is a staff document.
+
+======== ENGLISH ========
+
+WHAT IS HOUSS?
+Houss is a household app for Indian homes: meals, driver, shopping, staff, attendance, payroll, vehicles, appliances, clothes, calendar, and voice. One app; the screen changes if you are owner, family, child, or staff.
+
+IS IT ON THE PUBLIC STORE?
+Not yet. Searching “Houss” in Play Store or App Store will not work. Use the testing links. Closed trial by Gyan Prakash and Sons.
+
+HOW DO I INSTALL ON ANDROID?
+Open in Chrome (not inside WhatsApp if blank): https://play.google.com/apps/testing/com.houss.app
+Tap Become a tester (or Join). Then install Houss from Play Store. It uses the Google account already on that phone. You never send us that email.
+
+HOW DO I INSTALL ON IPHONE?
+Install TestFlight from the App Store. Open in Safari: https://testflight.apple.com/join/AaSzBcxA
+Tap Accept, then Install.
+
+WHATSAPP LINK LOOKS BLANK
+Open the same link in Chrome (Android) or Safari (iPhone).
+
+PLAY SAYS APP NOT AVAILABLE
+The newest Android file may still be waiting on Google. Email info@houss.co.in and say Android plus the mobile number.
+
+DO I NEED TO SEND GMAIL OR APPLE ID?
+No. Install uses the store account already on the phone. Houss login is the Indian mobile number.
+
+HOW DO I SIGN IN?
+Open Houss → 10-digit Indian mobile → when it asks for a code, type the code from the host’s note or PDF. Do not wait for SMS. Stay signed in until Log out.
+
+I DID NOT GET AN SMS
+Correct for this trial. No SMS is sent. Use the host’s code. Resend still will not send a real SMS.
+
+WHAT IS THE OTP / LOGIN CODE?
+This page will never print it. It is in the note or PDF your host sent. Same code for owner, family, and staff in this trial.
+
+WHO CREATES THE HOME?
+Only one person — the household owner — after login. Name the family (e.g. Sharma Family) and the house/flat, tap Create household. Staff and relatives must not create another household.
+
+I SEE AN EMPTY HOME AFTER LOGIN
+The owner should add that mobile number under Manage → Family Members or Staff Management. Then sign in again with that number. Do not tap Create household.
+
+HOW DO I ADD FAMILY?
+Owner: Manage → Family Members → name + mobile. They install Houss and sign in with that number.
+
+HOW DO I ADD STAFF?
+Owner: Manage → Staff Management → name, mobile, role (cook, driver, maid, gardener, guard, nanny, PA, or custom). They install and sign in with that number. They must not create a new household.
+
+HOW DO I ADD A CHILD?
+Owner: Manage → Children → mobile, optional date of birth, permission ticks (meals, driver, shopping, calendar, vehicles, appliances, clothes). Child sees fewer tiles.
+
+WHAT IS THE DIFFERENCE BETWEEN FAMILY, STAFF, AND CHILD?
+Family lives in the home and sees owner-style screens (with permissions). Staff have a simple Home (job + attendance first; only Home and Profile tabs). Children are limited by the ticks the owner set.
+
+HOW DO I CHANGE WHAT SOMEONE CAN SEE?
+Owner: Manage → Staff or Family → that person → Permissions. Family/admin can use Grant all access.
+
+STAFF WORKS IN TWO HOUSES
+Each owner adds the same mobile. Staff switch house on Home or Profile. Data from one house is never shown inside the other.
+
+HOW DO I SWITCH HOUSE OR PROPERTY?
+Several homes: switcher on Home / Profile (staff) or Manage (owners). Several properties: switch property on Home. Meals, driver, and shopping follow the selected property.
+
+WHERE IS HOME / MANAGE / PROFILE?
+Bottom tabs. Owners: Home, Daily, Calendar, Manage, Profile. Staff simple mode: Home and Profile only. (An Activity tab is not shown in this version.)
+
+WHAT IS DAILY?
+Owner shortcut tab for meals, driver, shopping, and gate.
+
+MEALS — HOW DO I ASK FOR FOOD?
+Home → Request a meal, or Meals. Pick the slot (breakfast/lunch/dinner), optional time and note, optional photo. Cook sees it and can accept, decline, mark preparing, or done.
+
+MEALS — HOW DO I SET TODAY’S DISH?
+On Meals, the owner or cook can set or clear today’s dish for a slot (menu board). Requests sit underneath.
+
+COOK WORKFLOW
+Cook Home → Meals. Accept or decline. Mark under preparation then done. Optional photos. Can ask a question on the request.
+
+DRIVER — HOW DO I BOOK?
+Home → Book a driver, or Driver. Place, time, which driver. Today or up to 90 days ahead. Pickup/drop is a place name or map pin, not raw GPS. Driver opens Maps from the trip. Times are India time.
+
+DRIVER ACCEPT / START / COMPLETE
+Driver Home → Driver. Accept, start, complete. Optional photo. Questions allowed on an active trip. Conflict: two overlapping trips for the same driver are blocked.
+
+VEHICLES VS DRIVER VS LICENCE
+Driver = trips. Vehicles = the car’s RC, insurance, PUC, service papers (Home 🚗 or Manage → Vehicles). Driving licence = person document, not the car.
+
+WHERE IS A DRIVER’S LICENCE?
+Not Vehicles. Driver/staff: Profile → My documents → Driving licence. Owner: Manage → Staff Documents, or Staff Management → that person → Documents. Same place for Aadhaar, PAN, contract, police verification, medical, if shared with this home.
+
+VEHICLE PAPERS
+Open the vehicle. Add Insurance, Pollution (PUC), RC, or extra named papers. Photo or PDF/Word. Check the dates on the check screen, then save. Owners get reminders 30, 15, and 7 days before due dates. Family and drivers can view, owners manage.
+
+APPLIANCES
+Home 🔌 or Manage → Appliances. Add name, company, purchase date. Bill and warranty/guarantee card as photo or file. Shop phone can be tapped to call. Expiring soon also lists these.
+
+EXPIRING SOON
+Owners: Home card Expiring soon (also in Needs me now when something is due). Vehicles, appliances, extra papers, staff documents in the next 30 days. Staff do not see this card.
+
+SHOPPING
+Home → Add shopping, or Shopping. Add a line (optional product photo). Owner may need to approve. Staff mark purchased with amount and receipt photo. Only owners mark fully done. Spending: Shopping → Spending tab.
+
+CAN I EDIT A SHOPPING LINE AFTER SENDING?
+In the current store app, changing or deleting a line after send is limited. Add a new correct line and tell people not to buy the old one. Email info@houss.co.in if you are stuck. (A fuller change/delete is planned.)
+
+CLOTHES
+Tile Clothes / कपड़े (never “Tracker”). Press, dry clean, or dhobi. Piles by person or House. Same day + same shop = one bag. Confirm how many pieces came back. Maid role can use this by default; others need permission. Voice can create a clothes bag.
+
+ATTENDANCE
+Owner sets mode in Manage → Household Settings: Self (staff GPS check-in within about 50 m of the home pin), Guard (guard marks in/out/absent), or Owner only (manual). Staff: Home → Attendance. Owners can correct a mark (long-press) if they have permission. Stand at the gate, save My location on the property pin first, or self check-in will fail.
+
+PAYROLL
+Owners: Home 💰 Payroll or Manage → Payroll → staff name. Monthly or daily wage, attendance calendar, advances, deductions, Pay salary. Staff see their own salary and advances, not everyone else’s.
+
+DUTIES
+Owners: Home or Manage → Staff duties. Daily/weekly/monthly lists per staff. Staff tick items on Home → Duties.
+
+CALENDAR
+Owners/family: Calendar tab or Manage → Family Calendar. Events can notify chosen staff. You can attach a meal, driver trip (with map pin), or other staff task. Reminders stay off unless you pick a time (15–120 minutes). Staff only see events shared with them. Owners can see staff birthdays.
+
+VOICE
+Home or Daily → Voice (green). Speak or type Hindi or English → Create task → edit the draft → Submit. Can create meals, named driver trips, shopping lines, clothes bags, and staff duties. Cannot create vehicle or appliance records. Stop the mic to make the draft. Check the draft before Submit.
+
+GATE INTAKE
+For guards and owners. Guard: Home → Gate Intake → photo of courier/parcel. Owner approves or rejects with instruction. Guard marks handled. Photos drop after the job unless Keep this photo is on.
+
+STAFF DOCUMENTS (OWNER)
+Manage → Staff Documents. See what staff shared. Lock keeps a home copy if staff later delete or change theirs. Owner can add a document for staff (photo/PDF/Word).
+
+MY DOCUMENTS (STAFF)
+Profile → My documents. Upload once, choose which households can see each file.
+
+CHILDREN PERMISSIONS
+Manage → Children. Tick meals, driver, shopping, calendar, vehicles, appliances, clothes. Same OTP login as others (code from host note).
+
+HOUSEHOLD SETTINGS
+Manage → Household Settings: household name, shopping auto-approve limit, attendance mode, property pin for check-in, reminder defaults (new jobs still start as No reminder unless you pick a time).
+
+PROPERTIES
+Manage → Properties. Add another house/flat. Switch on Home. Staff can be assigned to which homes they work at.
+
+ADD ANOTHER HOUSEHOLD
+Only the master owner: Manage → Add another household. Optional: link existing staff. Do not use this for the first home.
+
+LANGUAGE / DARK MODE
+Profile → Language (English / हिंदी). Profile → Appearance: light, dark, or system. Owners can pick grid or list on Home.
+
+NOTIFICATIONS
+After login the app asks. Later: Profile → Push notifications. Staff job alerts need the phone permission on. Reminders only if a time was picked on that job.
+
+PHOTOS
+Login required to see household photos. Everyday photos (gate, meal/driver/shopping proof) go away when the job ends or after 24 hours unless Keep this photo. Receipts and ID/vehicle/appliance files stay until deleted.
+
+ACCOUNT DELETION
+Profile → Account & privacy → Delete my account (three confirms). You are logged out at once. We remove the account within 60 days. The sole master owner must add another owner first. Email also: info@houss.co.in. Web: https://legal.houss.co.in/account-deletion.html
+
+PLANS AND PRICE
+During this open trial every feature is on; you do not pay in the app yet. Listed prices: Free ₹0, Plus ₹399/month, Multi ₹699/month (GST included). Manage → Subscription & Plans shows the list. Checkout (Razorpay) is not live.
+
+ADS
+Some screens show a small banner at the bottom. Staff may see a larger banner. This is not a payment screen.
+
+TIME
+Trip times, start windows, and staff reminders use India time.
+
+HELP IN THE APP
+Help on Welcome, phone, code, create-home, and Profile opens https://help.houss.co.in/ — after the next store upload. Until then open this page in Chrome or Safari. Store testers on older builds will not see in-app Help yet.
+
+WHAT THIS BOT CANNOT DO
+It cannot book a driver for you, pay salary, see who is in today, or read your papers. It only explains taps. For a real-house problem, use the app or email info@houss.co.in (say Android or iPhone and the mobile number). Do not email the login code unless we ask.
+
+======== HINDI ========
+
+Houss क्या है?
+Houss भारतीय घरों के लिए एक ऐप है: भोजन, ड्राइवर, खरीदारी, स्टाफ, हाज़िरी, पेरोल, गाड़ियाँ, उपकरण, कपड़े, कैलेंडर और वॉइस। एक ऐप; मालिक, परिवार, बच्चा या स्टाफ के अनुसार स्क्रीन बदलती है।
+
+पब्लिक स्टोर पर मिलेगा?
+अभी नहीं। Play Store या App Store में “Houss” खोजने से नहीं मिलेगा। टेस्टिंग लिंक इस्तेमाल करें।
+
+Android पर इंस्टॉल
+Chrome में खोलें: https://play.google.com/apps/testing/com.houss.app
+Become a tester / Join दबाएँ, फिर Play Store से Houss इंस्टॉल करें। WhatsApp में पेज खाली लगे तो Chrome में खोलें।
+
+iPhone पर इंस्टॉल
+App Store से TestFlight इंस्टॉल करें। Safari में: https://testflight.apple.com/join/AaSzBcxA
+Accept, फिर Install।
+
+साइन इन
+Houss खोलें → 10 अंकों का भारतीय मोबाइल → कोड होस्ट के नोट या PDF से लिखें। SMS का इंतज़ार न करें। यह पेज लॉगिन कोड नहीं बताएगा।
+
+SMS नहीं आया
+इस परीक्षण में SMS नहीं जाता। होस्ट वाला कोड लिखें।
+
+घर कौन बनाए?
+केवल एक व्यक्ति — घर का मालिक। परिवार का नाम और मकान लिखकर Create household। स्टाफ या रिश्तेदार नया घर न बनाएँ।
+
+खाली घर दिखे
+मालिक Manage → Family Members या Staff Management से वह मोबाइल नंबर जोड़ें। फिर उसी नंबर से साइन इन करें। Create household न दबाएँ।
+
+परिवार जोड़ें
+Manage → Family Members → नाम + मोबाइल।
+
+स्टाफ जोड़ें
+Manage → Staff Management → नाम, मोबाइल, भूमिका। वे उसी नंबर से साइन इन करें। नया household न बनाएँ।
+
+बच्चा जोड़ें
+Manage → Children → मोबाइल, जन्म तिथि वैकल्पिक, अनुमति की टिक।
+
+ड्राइविंग लाइसेंस कहाँ है?
+Vehicles में नहीं (वहाँ RC, बीमा, PUC हैं)। ड्राइवर/स्टाफ: Profile → My documents → Driving licence। मालिक: Manage → Staff Documents।
+
+भोजन
+Home → Request a meal या Meals। कुक स्वीकार/अस्वीकार कर सकता है, तैयार और हो गया मार्क कर सकता है।
+
+ड्राइवर बुक
+Home → Book a driver। जगह, समय, कौन सा ड्राइवर। आज या 90 दिन तक। भारत का समय।
+
+खरीदारी
+Shopping में आइटम जोड़ें। स्टाफ रसीद और राशि के साथ खरीदा मार्क करता है। मालिक Done मार्क करता है। Spending टैब में खर्च।
+
+कपड़े
+Clothes / कपड़े। प्रेस, ड्राई क्लीन या धोबी। वापसी पर गिनती पुष्टि करें।
+
+हाज़िरी
+Household Settings में मोड: Self (घर के पिन से लगभग 50 मीटर), Guard, या Owner only। पहले गेट पर My location सेव करें।
+
+पेरोल
+Home या Manage → Payroll। वेतन, अग्रिम, Pay salary। स्टाफ केवल अपना देखता है।
+
+वॉइस
+Home → Voice। हिंदी या अंग्रेज़ी बोलें या लिखें, ड्राफ्ट देखें, Submit। भोजन, ड्राइवर, खरीदारी, कपड़े, ड्यूटी। गाड़ी/उपकरण नहीं।
+
+गेट
+गार्ड Gate Intake पर पार्सल की फ़ोटो। मालिक स्वीकार/अस्वीकार।
+
+भाषा
+Profile → Language / भाषा।
+
+खाता हटाना
+Profile → Account & privacy → Delete my account। 60 दिनों में हटता है।
+
+कीमत
+इस परीक्षण में सारे फीचर चालू हैं, ऐप में भुगतान नहीं। सूची: Free ₹0, Plus ₹399, Multi ₹699। Checkout अभी नहीं।
+
+बॉट क्या नहीं कर सकता
+असली घर नहीं देखता, सैलरी नहीं भरता, कोड नहीं बताता। अटकें तो info@houss.co.in — Android या iPhone और मोबाइल नंबर लिखें।

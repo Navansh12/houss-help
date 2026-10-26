@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Houss Help — how to use the app</title>
+  <meta name="description" content="Official how-to guide for the Houss household app. English and Hindi. This page cannot see your house." />
+  <link rel="canonical" href="https://help.houss.co.in/" />
+  <style>
+    :root { --green: #2d6a4f; --green-dark: #1b4332; --soft: #e7f0eb; --ink: #1a1a1a; --muted: #5c5c5c; --bg: #fafaf8; --card: #fff; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.55; }
+    header { background: var(--card); border-bottom: 1px solid #e8e6e1; padding: 16px 20px; position: sticky; top: 0; z-index: 2; }
+    .bar { max-width: 720px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .brand { font-weight: 700; color: var(--green); font-size: 1.15rem; text-decoration: none; }
+    .lang { display: flex; gap: 8px; }
+    .lang button { border: 1px solid #d5d0c8; background: var(--card); border-radius: 999px; padding: 8px 14px; font-size: 14px; font-weight: 600; color: var(--muted); }
+    .lang button[aria-pressed="true"] { background: var(--green); color: #fff; border-color: var(--green); }
+    main { max-width: 720px; margin: 0 auto; padding: 28px 20px 96px; }
+    h1 { font-size: 1.7rem; line-height: 1.25; margin: 0 0 10px; color: var(--green-dark); }
+    h2 { font-size: 1.2rem; margin-top: 1.7rem; color: var(--green-dark); }
+    p, li { font-size: 1.02rem; }
+    a { color: var(--green); word-break: break-word; }
+    .note { background: var(--soft); border-radius: 12px; padding: 14px 16px; }
+    .warn { background: #fff4e5; border-radius: 12px; padding: 14px 16px; }
+    ol, ul { padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+    .hide { display: none; }
+    footer { max-width: 720px; margin: 0 auto; padding: 0 20px 48px; color: var(--muted); font-size: 0.88rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <a class="brand" href="/">Houss Help</a>
+      <div class="lang" role="group" aria-label="Language">
+        <button type="button" id="btn-en" aria-pressed="true">English</button>
+        <button type="button" id="btn-hi" aria-pressed="false">हिंदी</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <article id="en">
+      <h1>How to use Houss</h1>
+      <p>This page only explains the app. The chat bubble cannot see your house, meals, staff, or lists.</p>
+      <p class="note">Closed trial: searching “Houss” in Play Store or App Store will not work yet. Use the links below. Sign-in uses your Indian mobile number. The login code is in the note or PDF your host sent — this page will never show that code.</p>
+      <p>Person: <a href="mailto:info@houss.co.in">info@houss.co.in</a> · <a href="https://houss.co.in">houss.co.in</a></p>
+
+      <h2>Install on Android</h2>
+      <ol>
+        <li>Open this link in <strong>Chrome</strong> (not inside WhatsApp if the page looks blank): <a href="https://play.google.com/apps/testing/com.houss.app">https://play.google.com/apps/testing/com.houss.app</a></li>
+        <li>Tap <strong>Become a tester</strong> (or Join).</li>
+        <li>Install Houss from Play Store. It uses the Google account already on that phone.</li>
+      </ol>
+
+      <h2>Install on iPhone</h2>
+      <ol>
+        <li>Install <strong>TestFlight</strong> from the App Store (blue Apple app).</li>
+        <li>Open this link in <strong>Safari</strong>: <a href="https://testflight.apple.com/join/AaSzBcxA">https://testflight.apple.com/join/AaSzBcxA</a></li>
+        <li>Tap Accept, then Install. Houss appears on the home screen.</li>
+      </ol>
+
+      <h2>Sign in</h2>
+      <ol>
+        <li>Open Houss. Enter your 10-digit Indian mobile number.</li>
+        <li>When it asks for a code, type the code from the note or PDF your host sent. Do not wait for an SMS.</li>
+        <li>Same code for owner, family, and staff in this trial. Stay signed in.</li>
+      </ol>
+
+      <h2>Create the home — one person only</h2>
+      <p>After login, the household owner names the family (for example Sharma Family) and the house or flat, then taps <strong>Create household</strong>.</p>
+      <p class="warn">Do not let staff or relatives create another household. That makes extra empty homes. Family and staff should wait to be added by mobile number.</p>
+
+      <h2>Add family and staff</h2>
+      <ol>
+        <li>Open <strong>Manage</strong> (bottom tab).</li>
+        <li>Family Members — name + mobile number.</li>
+        <li>Staff Management — name, mobile, and role (cook, driver, maid, and so on).</li>
+        <li>Skip “Add another household” for this first home.</li>
+        <li>They install Houss, sign in with the number you added, and land in your home. They must not create a new household.</li>
+      </ol>
+
+      <h2>Everyday use</h2>
+      <p><strong>Home</strong> — tiles to request a meal, book a driver, add shopping, and more.</p>
+      <p><strong>Meals</strong> — request today’s meal or set the menu so the cook can see it.</p>
+      <p><strong>Driver</strong> — book a trip (place, time, which driver). <strong>Vehicles</strong> is the car registry (RC, insurance, PUC), not the trip button.</p>
+      <p><strong>Shopping</strong> — add kirana items. Owner items can go straight to To buy.</p>
+      <p><strong>Staff / Duties</strong> — lists of daily work. Staff tick items when done.</p>
+      <p><strong>Attendance</strong> — staff check in / out (or the owner / guard marks them), as set in Household settings.</p>
+      <p><strong>Payroll</strong> — salary, attendance calendar, advances, pay salary. Owners open it from Home or Manage.</p>
+      <p><strong>Appliances</strong> — fridge, AC, and so on, with bill and warranty papers.</p>
+      <p><strong>Voice</strong> — green Voice on Home. Speak or type in Hindi or English, check the draft, then Submit. It can create meals, driver trips, shopping lines, clothes bags, and staff duties. It does not change vehicles or appliances.</p>
+      <p><strong>Clothes</strong> — press, dry clean, or dhobi. Bags by person or House. Confirm when clothes return.</p>
+      <p><strong>Calendar</strong> — household events. You can attach a meal, driver, or staff task.</p>
+      <p><strong>Profile</strong> — your name, language (English / हिंदी), and log out. Account &amp; privacy is at the bottom.</p>
+
+      <h2>Stuck?</h2>
+      <ul>
+        <li>Open store links in Chrome or Safari, not inside WhatsApp.</li>
+        <li>Wrong empty home after login — the owner should add that mobile number from Manage, then they sign in again.</li>
+        <li>Email <a href="mailto:info@houss.co.in">info@houss.co.in</a> with Android or iPhone and the mobile number. Do not send the login code by email unless asked.</li>
+      </ul>
+      <p>Gyan Prakash and Sons, Ghaziabad · ALL RIGHTS RESERVED</p>
+    </article>
+
+    <article id="hi" class="hide" lang="hi">
+      <h1>Houss कैसे इस्तेमाल करें</h1>
+      <p>यह पेज केवल ऐप समझाता है। चैट आपके घर, भोजन, स्टाफ या लिस्ट नहीं देख सकती।</p>
+      <p class="note">बंद परीक्षण: Play Store या App Store में “Houss” खोजने से ऐप नहीं मिलेगा। नीचे दिए लिंक इस्तेमाल करें। साइन-इन भारतीय मोबाइल नंबर से होता है। लॉगिन कोड उस नोट या PDF में है जो होस्ट ने भेजा — यह पेज वह कोड नहीं दिखाएगा।</p>
+      <p>संपर्क: <a href="mailto:info@houss.co.in">info@houss.co.in</a> · <a href="https://houss.co.in">houss.co.in</a></p>
+
+      <h2>Android पर इंस्टॉल</h2>
+      <ol>
+        <li><strong>Chrome</strong> में यह लिंक खोलें (WhatsApp में पेज खाली लगे तो बाहर खोलें): <a href="https://play.google.com/apps/testing/com.houss.app">https://play.google.com/apps/testing/com.houss.app</a></li>
+        <li><strong>Become a tester</strong> (या Join) दबाएँ।</li>
+        <li>Play Store से Houss इंस्टॉल करें। फ़ोन पर पहले से जो Google खाता है, वही लगेगा।</li>
+      </ol>
+
+      <h2>iPhone पर इंस्टॉल</h2>
+      <ol>
+        <li>App Store से <strong>TestFlight</strong> इंस्टॉल करें (नीला Apple ऐप)।</li>
+        <li><strong>Safari</strong> में यह लिंक खोलें: <a href="https://testflight.apple.com/join/AaSzBcxA">https://testflight.apple.com/join/AaSzBcxA</a></li>
+        <li>Accept, फिर Install दबाएँ। Houss होम स्क्रीन पर आ जाएगा।</li>
+      </ol>
+
+      <h2>साइन इन</h2>
+      <ol>
+        <li>Houss खोलें। अपना 10 अंकों का भारतीय मोबाइल नंबर डालें।</li>
+        <li>कोड माँगे तो होस्ट के नोट या PDF वाला कोड लिखें। SMS का इंतज़ार न करें।</li>
+        <li>इस परीक्षण में मालिक, परिवार और स्टाफ का कोड एक ही है। साइन इन बने रहें।</li>
+      </ol>
+
+      <h2>घर बनाएँ — केवल एक व्यक्ति</h2>
+      <p>लॉगिन के बाद घर का मालिक परिवार का नाम (जैसे शर्मा परिवार) और मकान/फ्लैट लिखकर <strong>Create household</strong> दबाता है।</p>
+      <p class="warn">स्टाफ या रिश्तेदार नया घर न बनाएँ। खाली घर बन जाते हैं। परिवार और स्टाफ को मोबाइल नंबर से जोड़ा जाना चाहिए।</p>
+
+      <h2>परिवार और स्टाफ जोड़ें</h2>
+      <ol>
+        <li>नीचे <strong>Manage</strong> खोलें।</li>
+        <li>Family Members — नाम + मोबाइल नंबर।</li>
+        <li>Staff Management — नाम, मोबाइल, और भूमिका (रसोइया, ड्राइवर, मेड आदि)।</li>
+        <li>पहले घर के लिए “Add another household” न दबाएँ।</li>
+        <li>वे Houss इंस्टॉल करें, जोड़ा गया नंबर डालें, और आपके घर में पहुँचें। नया घर न बनाएँ।</li>
+      </ol>
+
+      <h2>रोज़मर्रा का इस्तेमाल</h2>
+      <p><strong>Home</strong> — भोजन, ड्राइवर, खरीदारी और अन्य टाइलें।</p>
+      <p><strong>Meals</strong> — आज का भोजन माँगें या मेनू सेट करें ताकि रसोइया देख सके।</p>
+      <p><strong>Driver</strong> — यात्रा बुक करें (जगह, समय, कौन सा ड्राइवर)। <strong>Vehicles</strong> गाड़ी का रजिस्टर है (RC, बीमा, PUC), यात्रा का बटन नहीं।</p>
+      <p><strong>Shopping</strong> — किराना आइटम जोड़ें। मालिक की चीज़ें सीधी “To buy” में जा सकती हैं।</p>
+      <p><strong>Staff / Duties</strong> — रोज़ का काम। स्टाफ पूरा होने पर टिक करता है।</p>
+      <p><strong>Attendance</strong> — स्टाफ चेक-इन/आउट (या मालिक/गार्ड मार्क करता है), Household settings के अनुसार।</p>
+      <p><strong>Payroll</strong> — वेतन, हाज़िरी कैलेंडर, अग्रिम, सैलरी पे। मालिक Home या Manage से खोलें।</p>
+      <p><strong>Appliances</strong> — फ्रिज, AC आदि, बिल और वारंटी कागज़।</p>
+      <p><strong>Voice</strong> — Home पर हरा Voice। हिंदी या अंग्रेज़ी में बोलें या लिखें, ड्राफ्ट देखें, Submit करें। भोजन, ड्राइवर, खरीदारी, कपड़े और ड्यूटी बन सकते हैं। गाड़ी या उपकरण नहीं बदलता।</p>
+      <p><strong>Clothes</strong> — प्रेस, ड्राई क्लीन या धोबी। व्यक्ति या House के बैग। वापस आने पर पुष्टि करें।</p>
+      <p><strong>Calendar</strong> — घर के कार्यक्रम। भोजन, ड्राइवर या स्टाफ काम जोड़ सकते हैं।</p>
+      <p><strong>Profile</strong> — नाम, भाषा (English / हिंदी), लॉग आउट। सबसे नीचे Account &amp; privacy।</p>
+
+      <h2>अटक गए?</h2>
+      <ul>
+        <li>स्टोर लिंक Chrome या Safari में खोलें, WhatsApp के अंदर नहीं।</li>
+        <li>लॉगिन के बाद खाली घर दिखे — मालिक Manage से वह मोबाइल नंबर जोड़े, फिर वे दोबारा साइन इन करें।</li>
+        <li><a href="mailto:info@houss.co.in">info@houss.co.in</a> पर लिखें — Android या iPhone और मोबाइल नंबर बताएँ। कोड ईमेल में न भेजें जब तक हम न माँगें।</li>
+      </ul>
+      <p>ज्ञान प्रकाश एंड संस, गाज़ियाबाद · ALL RIGHTS RESERVED</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>Gyan Prakash and Sons · <a href="mailto:info@houss.co.in">info@houss.co.in</a> · <a href="https://legal.houss.co.in">legal.houss.co.in</a></p>
+  </footer>
+
+  <script>
+    (function () {
+      var en = document.getElementById('en');
+      var hi = document.getElementById('hi');
+      var btnEn = document.getElementById('btn-en');
+      var btnHi = document.getElementById('btn-hi');
+      function setLang(lang) {
+        var isHi = lang === 'hi';
+        en.classList.toggle('hide', isHi);
+        hi.classList.toggle('hide', !isHi);
+        btnEn.setAttribute('aria-pressed', isHi ? 'false' : 'true');
+        btnHi.setAttribute('aria-pressed', isHi ? 'true' : 'false');
+        document.documentElement.lang = isHi ? 'hi' : 'en';
+        try { localStorage.setItem('houss-help-lang', isHi ? 'hi' : 'en'); } catch (e) {}
+      }
+      var saved = null;
+      try { saved = localStorage.getItem('houss-help-lang'); } catch (e) {}
+      if (saved === 'hi' || saved === 'en') setLang(saved);
+      else if ((navigator.language || '').toLowerCase().indexOf('hi') === 0) setLang('hi');
+      btnEn.addEventListener('click', function () { setLang('en'); });
+      btnHi.addEventListener('click', function () { setLang('hi'); });
+    })();
+  </script>
+  <script src="https://chaat.ai/widget.js" data-bot="98c82ffa-695e-4919-9a5e-9d2583622ab9" defer></script>
+</body>
+</html>
